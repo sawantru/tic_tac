@@ -1,1 +1,1 @@
-# tic_tac
+# tic_tac game based on python
